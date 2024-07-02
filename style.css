@@ -1,0 +1,16 @@
+body {
+   display: flex;
+   align-items: center;
+   font-family: sans-serif;
+   flex-direction: column;
+ 
+ 
+}
+.footer {
+    text-wrap: wrap;
+    width: 90%;
+    max-width: 500px;
+}
+a {
+    text-decoration: none;
+}
